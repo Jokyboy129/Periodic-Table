@@ -1,0 +1,118 @@
+H{Wasserstoff;Hydrogen;1;1.008;2.20;1;1;Gasförmig;Gas;Nichtmetalle;Nonmetals;1s1}
+He{Helium;Helium;2;4.0026;-;1;18;Gasförmig;Gas;Edelgase;Noble gases;1s2}
+Li{Lithium;Lithium;3;6.94;0.98;2;1;Fest;Solid;Alkalimetalle;Alkali metals;[He] 2s1}
+Be{Beryllium;Beryllium;4;9.0122;1.57;2;2;Fest;Solid;Erdalkalimetalle;Alkaline earth metals;[He] 2s2}
+B{Bor;Boron;5;10.81;2.04;2;13;Fest;Solid;Halbmetalle;Metalloids;[He] 2s2 2p1}
+C{Kohlenstoff;Carbon;6;12.011;2.55;2;14;Fest;Solid;Nichtmetalle;Nonmetals;[He] 2s2 2p2}
+N{Stickstoff;Nitrogen;7;14.007;3.04;2;15;Gasförmig;Gas;Nichtmetalle;Nonmetals;[He] 2s2 2p3}
+O{Sauerstoff;Oxygen;8;15.999;3.44;2;16;Gasförmig;Gas;Nichtmetalle;Nonmetals;[He] 2s2 2p4}
+F{Fluor;Fluorine;9;18.998;3.98;2;17;Gasförmig;Gas;Halogene;Halogens;[He] 2s2 2p5}
+Ne{Neon;Neon;10;20.180;-;2;18;Gasförmig;Gas;Edelgase;Noble gases;[He] 2s2 2p6}
+Na{Natrium;Sodium;11;22.990;0.93;3;1;Fest;Solid;Alkalimetalle;Alkali metals;[Ne] 3s1}
+Mg{Magnesium;Magnesium;12;24.305;1.31;3;2;Fest;Solid;Erdalkalimetalle;Alkaline earth metals;[Ne] 3s2}
+Al{Aluminium;Aluminum;13;26.982;1.61;3;13;Fest;Solid;Metalle;Metals;[Ne] 3s2 3p1}
+Si{Silizium;Silicon;14;28.085;1.90;3;14;Fest;Solid;Halbmetalle;Metalloids;[Ne] 3s2 3p2}
+P{Phosphor;Phosphorus;15;30.974;2.19;3;15;Fest;Solid;Nichtmetalle;Nonmetals;[Ne] 3s2 3p3}
+S{Schwefel;Sulfur;16;32.06;2.58;3;16;Fest;Solid;Nichtmetalle;Nonmetals;[Ne] 3s2 3p4}
+Cl{Chlor;Chlorine;17;35.45;3.16;3;17;Gasförmig;Gas;Halogene;Halogens;[Ne] 3s2 3p5}
+Ar{Argon;Argon;18;39.948;-;3;18;Gasförmig;Gas;Edelgase;Noble gases;[Ne] 3s2 3p6}
+K{Kalium;Potassium;19;39.098;0.82;4;1;Fest;Solid;Alkalimetalle;Alkali metals;[Ar] 4s1}
+Ca{Calcium;Calcium;20;40.078;1.00;4;2;Fest;Solid;Erdalkalimetalle;Alkaline earth metals;[Ar] 4s2}
+Sc{Scandium;Scandium;21;44.956;1.36;4;3;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d1 4s2}
+Ti{Titan;Titanium;22;47.867;1.54;4;4;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d2 4s2}
+V{Vanadium;Vanadium;23;50.942;1.63;4;5;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d3 4s2}
+Cr{Chrom;Chromium;24;51.996;1.66;4;6;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d5 4s1}
+Mn{Mangan;Manganese;25;54.938;1.55;4;7;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d5 4s2}
+Fe{Eisen;Iron;26;55.845;1.83;4;8;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d6 4s2}
+Co{Cobalt;Cobalt;27;58.933;1.88;4;9;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d7 4s2}
+Ni{Nickel;Nickel;28;58.693;1.91;4;10;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d8 4s2}
+Cu{Kupfer;Copper;29;63.546;1.90;4;11;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d10 4s1}
+Zn{Zink;Zinc;30;65.38;1.65;4;12;Fest;Solid;Übergangsmetalle;Transition metals;[Ar] 3d10 4s2}
+Ga{Gallium;Gallium;31;69.723;1.81;4;13;Fest;Solid;Metalle;Metals;[Ar] 3d10 4s2 4p1}
+Ge{Germanium;Germanium;32;72.630;2.01;4;14;Fest;Solid;Halbmetalle;Metalloids;[Ar] 3d10 4s2 4p2}
+As{Arsen;Arsenic;33;74.922;2.18;4;15;Fest;Solid;Halbmetalle;Metalloids;[Ar] 3d10 4s2 4p3}
+Se{Selen;Selenium;34;78.971;2.55;4;16;Fest;Solid;Nichtmetalle;Nonmetals;[Ar] 3d10 4s2 4p4}
+Br{Brom;Bromine;35;79.904;2.96;4;17;Flüssig;Liquid;Halogene;Halogens;[Ar] 3d10 4s2 4p5}
+Kr{Krypton;Krypton;36;83.798;3.00;4;18;Gasförmig;Gas;Edelgase;Noble gases;[Ar] 3d10 4s2 4p6}
+Rb{Rubidium;Rubidium;37;85.468;0.82;5;1;Fest;Solid;Alkalimetalle;Alkali metals;[Kr] 5s1}
+Sr{Strontium;Strontium;38;87.62;0.95;5;2;Fest;Solid;Erdalkalimetalle;Alkaline earth metals;[Kr] 5s2}
+Y{Yttrium;Yttrium;39;88.906;1.22;5;3;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d1 5s2}
+Zr{Zirkonium;Zirconium;40;91.224;1.33;5;4;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d2 5s2}
+Nb{Niob;Niobium;41;92.906;1.6;5;5;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d4 5s1}
+Mo{Molybdän;Molybdenum;42;95.95;2.16;5;6;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d5 5s1}
+Tc{Technetium;Technetium;43;(98);1.9;5;7;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d5 5s2}
+Ru{Ruthenium;Ruthenium;44;101.07;2.2;5;8;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d7 5s1}
+Rh{Rhodium;Rhodium;45;102.91;2.28;5;9;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d8 5s1}
+Pd{Palladium;Palladium;46;106.42;2.20;5;10;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d10}
+Ag{Silber;Silver;47;107.87;1.93;5;11;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d10 5s1}
+Cd{Cadmium;Cadmium;48;112.41;1.69;5;12;Fest;Solid;Übergangsmetalle;Transition metals;[Kr] 4d10 5s2}
+In{Indium;Indium;49;114.82;1.78;5;13;Fest;Solid;Metalle;Metals;[Kr] 4d10 5s2 5p1}
+Sn{Zinn;Tin;50;118.71;1.96;5;14;Fest;Solid;Metalle;Metals;[Kr] 4d10 5s2 5p2}
+Sb{Antimon;Antimony;51;121.76;2.05;5;15;Fest;Solid;Halbmetalle;Metalloids;[Kr] 4d10 5s2 5p3}
+Te{Tellur;Tellurium;52;127.60;2.1;5;16;Fest;Solid;Halbmetalle;Metalloids;[Kr] 4d10 5s2 5p4}
+I{Iod;Iodine;53;126.90;2.66;5;17;Fest;Solid;Halogene;Halogens;[Kr] 4d10 5s2 5p5}
+Xe{Xenon;Xenon;54;131.29;2.6;5;18;Gasförmig;Gas;Edelgase;Noble gases;[Kr] 4d10 5s2 5p6}
+Cs{Cäsium;Cesium;55;132.91;0.79;6;1;Fest;Solid;Alkalimetalle;Alkali metals;[Xe] 6s1}
+Ba{Barium;Barium;56;137.33;0.89;6;2;Fest;Solid;Erdalkalimetalle;Alkaline earth metals;[Xe] 6s2}
+La{Lanthan;Lanthanum;57;138.91;1.10;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 5d1 6s2}
+Ce{Cer;Cerium;58;140.12;1.12;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f1 5d1 6s2}
+Pr{Praseodym;Praseodymium;59;140.91;1.13;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f3 6s2}
+Nd{Neodym;Neodymium;60;144.24;1.14;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f4 6s2}
+Pm{Promethium;Promethium;61;(145);1.13;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f5 6s2}
+Sm{Samarium;Samarium;62;150.36;1.17;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f6 6s2}
+Eu{Europium;Europium;63;151.96;1.2;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f7 6s2}
+Gd{Gadolinium;Gadolinium;64;157.25;1.2;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f7 5d1 6s2}
+Tb{Terbium;Terbium;65;158.93;1.2;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f9 6s2}
+Dy{Dysprosium;Dysprosium;66;162.50;1.22;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f10 6s2}
+Ho{Holmium;Holmium;67;164.93;1.23;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f11 6s2}
+Er{Erbium;Erbium;68;167.26;1.24;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f12 6s2}
+Tm{Thulium;Thulium;69;168.93;1.25;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f13 6s2}
+Yb{Ytterbium;Ytterbium;70;173.05;1.1;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f14 6s2}
+Lu{Lutetium;Lutetium;71;174.97;1.27;6;Lanth;Fest;Solid;Lanthanoide;Lanthanides;[Xe] 4f14 5d1 6s2}
+Hf{Hafnium;Hafnium;72;178.49;1.3;6;4;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d2 6s2}
+Ta{Tantal;Tantalum;73;180.95;1.5;6;5;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d3 6s2}
+W{Wolfram;Tungsten;74;183.84;2.36;6;6;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d4 6s2}
+Re{Rhenium;Rhenium;75;186.21;1.9;6;7;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d5 6s2}
+Os{Osmium;Osmium;76;190.23;2.2;6;8;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d6 6s2}
+Ir{Iridium;Iridium;77;192.22;2.20;6;9;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d7 6s2}
+Pt{Platin;Platinum;78;195.08;2.28;6;10;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d9 6s1}
+Au{Gold;Gold;79;196.97;2.54;6;11;Fest;Solid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d10 6s1}
+Hg{Quecksilber;Mercury;80;200.59;2.00;6;12;Flüssig;Liquid;Übergangsmetalle;Transition metals;[Xe] 4f14 5d10 6s2}
+Tl{Thallium;Thallium;81;204.38;1.62;6;13;Fest;Solid;Metalle;Metals;[Xe] 4f14 5d10 6s2 6p1}
+Pb{Blei;Lead;82;207.2;2.33;6;14;Fest;Solid;Metalle;Metals;[Xe] 4f14 5d10 6s2 6p2}
+Bi{Bismut;Bismuth;83;208.98;2.02;6;15;Fest;Solid;Metalle;Metals;[Xe] 4f14 5d10 6s2 6p3}
+Po{Polonium;Polonium;84;(209);2.0;6;16;Fest;Solid;Halbmetalle;Metalloids;[Xe] 4f14 5d10 6s2 6p4}
+At{Astat;Astatine;85;(210);2.2;6;17;Fest;Solid;Halogene;Halogens;[Xe] 4f14 5d10 6s2 6p5}
+Rn{Radon;Radon;86;(222);-;6;18;Gasförmig;Gas;Edelgase;Noble gases;[Xe] 4f14 5d10 6s2 6p6}
+Fr{Francium;Francium;87;(223);0.7;7;1;Fest;Solid;Alkalimetalle;Alkali metals;[Rn] 7s1}
+Ra{Radium;Radium;88;(226);0.9;7;2;Fest;Solid;Erdalkalimetalle;Alkaline earth metals;[Rn] 7s2}
+Ac{Actinium;Actinium;89;(227);1.1;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 6d1 7s2}
+Th{Thorium;Thorium;90;232.04;1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 6d2 7s2}
+Pa{Protactinium;Protactinium;91;231.04;1.5;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f2 6d1 7s2}
+U{Uran;Uranium;92;238.03;1.38;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f3 6d1 7s2}
+Np{Neptunium;Neptunium;93;(237);1.36;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f4 6d1 7s2}
+Pu{Plutonium;Plutonium;94;(244);1.28;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f6 7s2}
+Am{Americium;Americium;95;(243);1.13;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f7 7s2}
+Cm{Curium;Curium;96;(247);1.28;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f7 6d1 7s2}
+Bk{Berkelium;Berkelium;97;(247);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f9 7s2}
+Cf{Californium;Californium;98;(251);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f10 7s2}
+Es{Einsteinium;Einsteinium;99;(252);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f11 7s2}
+Fm{Fermium;Fermium;100;(257);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f12 7s2}
+Md{Mendelevium;Mendelevium;101;(258);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f13 7s2}
+No{Nobelium;Nobelium;102;(259);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f14 7s2}
+Lr{Lawrencium;Lawrencium;103;(262);1.3;7;Actin;Fest;Solid;Actinoide;Actinides;[Rn] 5f14 7s2 7p1}
+Rf{Rutherfordium;Rutherfordium;104;(267);-;7;4;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d2 7s2}
+Db{Dubnium;Dubnium;105;(268);-;7;5;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d3 7s2}
+Sg{Seaborgium;Seaborgium;106;(271);-;7;6;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d4 7s2}
+Bh{Bohrium;Bohrium;107;(272);-;7;7;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d5 7s2}
+Hs{Hassium;Hassium;108;(270);-;7;8;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d6 7s2}
+Mt{Meitnerium;Meitnerium;109;(276);-;7;9;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d7 7s2}
+Ds{Darmstadtium;Darmstadtium;110;(281);-;7;10;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d8 7s2}
+Rg{Roentgenium;Roentgenium;111;(280);-;7;11;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d9 7s2}
+Cn{Copernicium;Copernicium;112;(285);-;7;12;Unbekannt;Unknown;Übergangsmetalle;Transition metals;[Rn] 5f14 6d10 7s2}
+Nh{Nihonium;Nihonium;113;(284);-;7;13;Unbekannt;Unknown;Metalle;Metals;[Rn] 5f14 6d10 7s2 7p1}
+Fl{Flerovium;Flerovium;114;(289);-;7;14;Unbekannt;Unknown;Metalle;Metals;[Rn] 5f14 6d10 7s2 7p2}
+Mc{Moscovium;Moscovium;115;(288);-;7;15;Unbekannt;Unknown;Metalle;Metals;[Rn] 5f14 6d10 7s2 7p3}
+Lv{Livermorium;Livermorium;116;(293);-;7;16;Unbekannt;Unknown;Metalle;Metals;[Rn] 5f14 6d10 7s2 7p4}
+Ts{Tenness;Tennessine;117;(294);-;7;17;Unbekannt;Unknown;Halogene;Halogens;[Rn] 5f14 6d10 7s2 7p5}
+Og{Oganesson;Oganesson;118;(294);-;7;18;Unbekannt;Unknown;Edelgase;Noble gases;[Rn] 5f14 6d10 7s2 7p6}
